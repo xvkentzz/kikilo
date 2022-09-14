@@ -11,7 +11,7 @@
  * Version:           1.0.0
  * Author:            Traxconn
  * Requires at least: 5.0.0
- * Requires PHP:      5.6
+ * Requires PHP:      6.0
  * Tested up to:      4.9
  * Author URI:        https://traxconn.com/
  * License:           GPL-2.0+
