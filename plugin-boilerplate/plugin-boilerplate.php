@@ -10,7 +10,7 @@
  * Description:       A standard plugin boilerplate development.
  * Version:           1.0.0
  * Author:            Traxconn
- * Requires at least: 3.0.0
+ * Requires at least: 5.0.0
  * Requires PHP:      5.6
  * Tested up to:      4.9
  * Author URI:        https://traxconn.com/
